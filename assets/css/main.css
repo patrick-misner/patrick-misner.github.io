@@ -2145,6 +2145,10 @@ input[type="radio"]+label:before {
 
 /* Image */
 
+i {
+	font-size: 75px;
+}
+
 .image {
 	border-radius: 0.5em;
 	border: 0;
